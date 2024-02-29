@@ -1,0 +1,1 @@
+{"version":3,"file":"GatewayTimeout.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/GatewayTimeout.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,aAAa;IACvD,UAAU,SAAO;IAEjB,KAAK,SAAqB;gBAEd,MAAM,GAAE,MAAW;CAGhC"}

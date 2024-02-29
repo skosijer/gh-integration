@@ -1,0 +1,1 @@
+{"version":3,"file":"BlocklistSubscribersResponse.d.ts","sourceRoot":"","sources":["../../../../../src/services/blocklists/models/BlocklistSubscribersResponse.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,yBAAyB,EAAE,MAAM,6BAA6B,CAAC;AAExE,MAAM,WAAW,4BAA4B;IAC3C;;OAEG;IACH,WAAW,EAAE,yBAAyB,EAAE,CAAC;CAC1C"}

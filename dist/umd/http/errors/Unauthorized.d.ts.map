@@ -1,0 +1,1 @@
+{"version":3,"file":"Unauthorized.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/Unauthorized.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,qBAAqB,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAE9D,MAAM,CAAC,OAAO,OAAO,YAAa,SAAQ,aAAa;IACrD,UAAU,SAAO;IAEjB,KAAK,SAAkB;IAEvB,eAAe,CAAC,EAAE,qBAAqB,CAAC;gBAE5B,MAAM,GAAE,MAAW,EAAE,eAAe,CAAC,EAAE,qBAAqB;CAIzE"}

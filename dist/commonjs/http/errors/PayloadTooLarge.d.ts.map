@@ -1,0 +1,1 @@
+{"version":3,"file":"PayloadTooLarge.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/PayloadTooLarge.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,eAAgB,SAAQ,aAAa;IACxD,UAAU,SAAO;IAEjB,KAAK,SAAuB;IAE5B,UAAU,EAAE,MAAM,GAAG,IAAI,CAAC;gBAEd,MAAM,GAAE,MAAW,EAAE,UAAU,GAAE,MAAM,GAAG,IAAW;CAIlE"}

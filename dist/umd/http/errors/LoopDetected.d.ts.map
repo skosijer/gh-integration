@@ -1,0 +1,1 @@
+{"version":3,"file":"LoopDetected.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/LoopDetected.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,YAAa,SAAQ,aAAa;IACrD,UAAU,SAAO;IAEjB,KAAK,SAAmB;gBAEZ,MAAM,GAAE,MAAW;CAGhC"}

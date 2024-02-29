@@ -1,0 +1,1 @@
+{"version":3,"file":"UnavailableForLegalReasons.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/UnavailableForLegalReasons.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,0BAA2B,SAAQ,aAAa;IACnE,UAAU,SAAO;IAEjB,KAAK,SAAmC;gBAE5B,MAAM,GAAE,MAAW;CAGhC"}

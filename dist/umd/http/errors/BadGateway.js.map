@@ -1,0 +1,1 @@
+{"version":3,"file":"BadGateway.js","sourceRoot":"","sources":["../../../../src/http/errors/BadGateway.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA,iCAAuC;IAEvC,MAAqB,UAAW,SAAQ,oBAAa;QAKnD,YAAY,SAAiB,EAAE;YAC7B,KAAK,CAAC,MAAM,CAAC,CAAC;YALhB,eAAU,GAAG,GAAG,CAAC;YAEjB,UAAK,GAAG,aAAa,CAAC;QAItB,CAAC;KACF;IARD,6BAQC"}

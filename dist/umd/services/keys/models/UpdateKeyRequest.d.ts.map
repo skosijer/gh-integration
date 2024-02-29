@@ -1,0 +1,1 @@
+{"version":3,"file":"UpdateKeyRequest.d.ts","sourceRoot":"","sources":["../../../../../src/services/keys/models/UpdateKeyRequest.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,gBAAgB;IAC/B,IAAI,CAAC,EAAE,MAAM,CAAC;IACd,WAAW,CAAC,EAAE,MAAM,CAAC;IACrB,UAAU,CAAC,EAAE,MAAM,CAAC;IACpB,gBAAgB,CAAC,EAAE,OAAO,CAAC;CAC5B"}

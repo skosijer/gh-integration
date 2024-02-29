@@ -1,0 +1,1 @@
+{"version":3,"file":"MethodNotAllowed.js","sourceRoot":"","sources":["../../../../src/http/errors/MethodNotAllowed.ts"],"names":[],"mappings":";;AAAA,iCAAuC;AAEvC,MAAqB,gBAAiB,SAAQ,oBAAa;IAOzD,YAAY,SAAiB,EAAE,EAAE,KAAgB;QAC/C,KAAK,CAAC,MAAM,CAAC,CAAC;QAPhB,eAAU,GAAG,GAAG,CAAC;QAEjB,UAAK,GAAG,oBAAoB,CAAC;QAM3B,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACrB,CAAC;CACF;AAXD,mCAWC"}

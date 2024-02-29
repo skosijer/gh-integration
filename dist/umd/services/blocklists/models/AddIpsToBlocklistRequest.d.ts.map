@@ -1,0 +1,1 @@
+{"version":3,"file":"AddIpsToBlocklistRequest.d.ts","sourceRoot":"","sources":["../../../../../src/services/blocklists/models/AddIpsToBlocklistRequest.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,wBAAwB;IACvC;;OAEG;IACH,GAAG,EAAE,MAAM,EAAE,CAAC;IACd;;OAEG;IACH,UAAU,CAAC,EAAE,MAAM,CAAC;CACrB"}

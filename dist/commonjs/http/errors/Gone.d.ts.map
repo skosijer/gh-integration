@@ -1,0 +1,1 @@
+{"version":3,"file":"Gone.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/Gone.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,IAAK,SAAQ,aAAa;IAC7C,UAAU,SAAO;IAEjB,KAAK,SAAU;gBAEH,MAAM,GAAE,MAAW;CAGhC"}

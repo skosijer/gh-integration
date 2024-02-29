@@ -1,0 +1,1 @@
+{"version":3,"file":"RangeNotSatisfiable.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/RangeNotSatisfiable.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,mBAAoB,SAAQ,aAAa;IAC5D,UAAU,SAAO;IAEjB,KAAK,SAA2B;gBAEpB,MAAM,GAAE,MAAW;CAGhC"}
