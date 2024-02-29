@@ -1,0 +1,1 @@
+{"version":3,"file":"NotAcceptable.js","sourceRoot":"","sources":["../../../../src/http/errors/NotAcceptable.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA,iCAAuC;IAEvC,MAAqB,aAAc,SAAQ,oBAAa;QAKtD,YAAY,SAAiB,EAAE;YAC7B,KAAK,CAAC,MAAM,CAAC,CAAC;YALhB,eAAU,GAAG,GAAG,CAAC;YAEjB,UAAK,GAAG,gBAAgB,CAAC;QAIzB,CAAC;KACF;IARD,gCAQC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"HttpVersionNotSupported.js","sourceRoot":"","sources":["../../../../src/http/errors/HttpVersionNotSupported.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA,iCAAuC;IAEvC,MAAqB,uBAAwB,SAAQ,oBAAa;QAKhE,YAAY,SAAiB,EAAE;YAC7B,KAAK,CAAC,MAAM,CAAC,CAAC;YALhB,eAAU,GAAG,GAAG,CAAC;YAEjB,UAAK,GAAG,4BAA4B,CAAC;QAIrC,CAAC;KACF;IARD,0CAQC"}

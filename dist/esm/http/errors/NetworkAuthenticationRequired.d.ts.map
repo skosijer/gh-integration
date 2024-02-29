@@ -1,0 +1,1 @@
+{"version":3,"file":"NetworkAuthenticationRequired.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/NetworkAuthenticationRequired.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,6BAA8B,SAAQ,aAAa;IACtE,UAAU,SAAO;IAEjB,KAAK,SAAqC;gBAE9B,MAAM,GAAE,MAAW;CAGhC"}

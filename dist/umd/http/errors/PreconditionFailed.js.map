@@ -1,0 +1,1 @@
+{"version":3,"file":"PreconditionFailed.js","sourceRoot":"","sources":["../../../../src/http/errors/PreconditionFailed.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA,iCAAuC;IAEvC,MAAqB,kBAAmB,SAAQ,oBAAa;QAK3D,YAAY,SAAiB,EAAE;YAC7B,KAAK,CAAC,MAAM,CAAC,CAAC;YALhB,eAAU,GAAG,GAAG,CAAC;YAEjB,UAAK,GAAG,oBAAoB,CAAC;QAI7B,CAAC;KACF;IARD,qCAQC"}

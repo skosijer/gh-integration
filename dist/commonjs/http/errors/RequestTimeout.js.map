@@ -1,0 +1,1 @@
+{"version":3,"file":"RequestTimeout.js","sourceRoot":"","sources":["../../../../src/http/errors/RequestTimeout.ts"],"names":[],"mappings":";;AAAA,iCAAuC;AAEvC,MAAqB,cAAe,SAAQ,oBAAa;IAKvD,YAAY,SAAiB,EAAE;QAC7B,KAAK,CAAC,MAAM,CAAC,CAAC;QALhB,eAAU,GAAG,GAAG,CAAC;QAEjB,UAAK,GAAG,iBAAiB,CAAC;IAI1B,CAAC;CACF;AARD,iCAQC"}

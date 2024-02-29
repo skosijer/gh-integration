@@ -1,0 +1,1 @@
+{"version":3,"file":"BlocklistUsageStats.d.ts","sourceRoot":"","sources":["../../../../../src/services/blocklists/models/BlocklistUsageStats.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,mBAAmB;IAClC,2BAA2B,CAAC,EAAE,MAAM,CAAC;IACrC,8BAA8B,CAAC,EAAE,MAAM,CAAC;IACxC,8BAA8B,CAAC,EAAE,MAAM,CAAC;IACxC,wBAAwB,CAAC,EAAE,MAAM,CAAC;IAClC,UAAU,CAAC,EAAE,MAAM,CAAC;CACrB"}

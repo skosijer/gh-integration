@@ -1,0 +1,1 @@
+{"version":3,"file":"Locked.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/Locked.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,MAAO,SAAQ,aAAa;IAC/C,UAAU,SAAO;IAEjB,KAAK,SAAY;gBAEL,MAAM,GAAE,MAAW;CAGhC"}

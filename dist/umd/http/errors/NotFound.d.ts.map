@@ -1,0 +1,1 @@
+{"version":3,"file":"NotFound.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/NotFound.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,QAAS,SAAQ,aAAa;IACjD,UAAU,SAAO;IAEjB,KAAK,SAAe;gBAER,MAAM,GAAE,MAAW;CAGhC"}

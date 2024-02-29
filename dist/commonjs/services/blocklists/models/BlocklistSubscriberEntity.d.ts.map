@@ -1,0 +1,1 @@
+{"version":3,"file":"BlocklistSubscriberEntity.d.ts","sourceRoot":"","sources":["../../../../../src/services/blocklists/models/BlocklistSubscriberEntity.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,yBAAyB,CAAC;AAErD,KAAK,KAAK,GAAG,UAAU,CAAC;AAExB,MAAM,WAAW,yBAAyB;IACxC;;OAEG;IACH,EAAE,EAAE,MAAM,CAAC;IACX;;OAEG;IACH,WAAW,EAAE,MAAM,CAAC;IACpB,KAAK,EAAE,KAAK,CAAC;CACd"}

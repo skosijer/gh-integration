@@ -1,0 +1,1 @@
+{"version":3,"file":"NotExtended.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/NotExtended.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,WAAY,SAAQ,aAAa;IACpD,UAAU,SAAO;IAEjB,KAAK,SAAkB;gBAEX,MAAM,GAAE,MAAW;CAGhC"}

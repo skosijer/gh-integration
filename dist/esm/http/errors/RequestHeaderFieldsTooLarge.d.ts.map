@@ -1,0 +1,1 @@
+{"version":3,"file":"RequestHeaderFieldsTooLarge.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/RequestHeaderFieldsTooLarge.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,2BAA4B,SAAQ,aAAa;IACpE,UAAU,SAAO;IAEjB,KAAK,SAAqC;gBAE9B,MAAM,GAAE,MAAW;CAGhC"}

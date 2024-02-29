@@ -1,0 +1,1 @@
+{"version":3,"file":"UpgradeRequired.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/UpgradeRequired.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,eAAgB,SAAQ,aAAa;IACxD,UAAU,SAAO;IAEjB,KAAK,SAAsB;gBAEf,MAAM,GAAE,MAAW;CAGhC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"UnsupportedMediaType.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/UnsupportedMediaType.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,oBAAqB,SAAQ,aAAa;IAC7D,UAAU,SAAO;IAEjB,KAAK,SAA4B;gBAErB,MAAM,GAAE,MAAW;CAGhC"}

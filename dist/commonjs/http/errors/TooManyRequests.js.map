@@ -1,0 +1,1 @@
+{"version":3,"file":"TooManyRequests.js","sourceRoot":"","sources":["../../../../src/http/errors/TooManyRequests.ts"],"names":[],"mappings":";;AAAA,iCAAuC;AAEvC,MAAqB,eAAgB,SAAQ,oBAAa;IAOxD,YAAY,SAAiB,EAAE,EAAE,aAA4B,IAAI;QAC/D,KAAK,CAAC,MAAM,CAAC,CAAC;QAPhB,eAAU,GAAG,GAAG,CAAC;QAEjB,UAAK,GAAG,mBAAmB,CAAC;QAM1B,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;IAC/B,CAAC;CACF;AAXD,kCAWC"}

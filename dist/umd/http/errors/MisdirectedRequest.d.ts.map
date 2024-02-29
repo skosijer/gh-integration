@@ -1,0 +1,1 @@
+{"version":3,"file":"MisdirectedRequest.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/MisdirectedRequest.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,kBAAmB,SAAQ,aAAa;IAC3D,UAAU,SAAO;IAEjB,KAAK,SAAyB;gBAElB,MAAM,GAAE,MAAW;CAGhC"}

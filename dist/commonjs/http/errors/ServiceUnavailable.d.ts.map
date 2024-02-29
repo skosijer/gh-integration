@@ -1,0 +1,1 @@
+{"version":3,"file":"ServiceUnavailable.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/ServiceUnavailable.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,kBAAmB,SAAQ,aAAa;IAC3D,UAAU,SAAO;IAEjB,KAAK,SAAyB;IAE9B,UAAU,EAAE,MAAM,GAAG,IAAI,CAAC;gBAEd,MAAM,GAAE,MAAW,EAAE,UAAU,GAAE,MAAM,GAAG,IAAW;CAIlE"}

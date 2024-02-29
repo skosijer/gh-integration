@@ -1,0 +1,1 @@
+{"version":3,"file":"PreconditionFailed.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/PreconditionFailed.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,kBAAmB,SAAQ,aAAa;IAC3D,UAAU,SAAO;IAEjB,KAAK,SAAwB;gBAEjB,MAAM,GAAE,MAAW;CAGhC"}

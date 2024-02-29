@@ -1,0 +1,1 @@
+{"version":3,"file":"UnsubscribeBlocklistRequest.d.ts","sourceRoot":"","sources":["../../../../../src/services/blocklists/models/UnsubscribeBlocklistRequest.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,yBAAyB,CAAC;AAErD,KAAK,KAAK,GAAG,UAAU,CAAC;AAExB,MAAM,WAAW,2BAA2B;IAC1C;;OAEG;IACH,GAAG,CAAC,EAAE,MAAM,EAAE,CAAC;IACf,KAAK,EAAE,KAAK,CAAC;CACd"}

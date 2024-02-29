@@ -1,0 +1,1 @@
+{"version":3,"file":"UriTooLong.d.ts","sourceRoot":"","sources":["../../../../src/http/errors/UriTooLong.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,UAAW,SAAQ,aAAa;IACnD,UAAU,SAAO;IAEjB,KAAK,SAAkB;gBAEX,MAAM,GAAE,MAAW;CAGhC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"NetworkAuthenticationRequired.js","sourceRoot":"","sources":["../../../../src/http/errors/NetworkAuthenticationRequired.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA,iCAAuC;IAEvC,MAAqB,6BAA8B,SAAQ,oBAAa;QAKtE,YAAY,SAAiB,EAAE;YAC7B,KAAK,CAAC,MAAM,CAAC,CAAC;YALhB,eAAU,GAAG,GAAG,CAAC;YAEjB,UAAK,GAAG,iCAAiC,CAAC;QAI1C,CAAC;KACF;IARD,gDAQC"}
