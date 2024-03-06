@@ -1,0 +1,18 @@
+name: Liblab SDK updates
+
+on:
+  workflow_call:
+  workflow_dispatch:
+
+jobs:
+  check-for-latest-liblab-updates:
+    name: Generate SDKs and create PRs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stevan SDK updates
+        uses: skosijer/gh-action@v1.0.0
+        with:
+         liblab_token: ${{ secrets.LIBLAB_TOKEN }}
+         github_token: ${{ secrets.LIBLAB_GITHUB_TOKEN }}
+
+
