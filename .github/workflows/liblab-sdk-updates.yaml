@@ -8,6 +8,10 @@ jobs:
   check-for-latest-liblab-updates:
     name: Generate SDKs and create PRs
     runs-on: ubuntu-latest
+    env:
+      LIBLAB_TOKEN: ${{ secrets.LIBLAB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.LIBLAB_GITHUB_TOKEN }}
+      LIBLAB_ENVIRONMENT: development
     steps:
       - name: Stevan SDK updates
         uses: skosijer/gh-action@v1.0.0
