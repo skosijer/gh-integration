@@ -1,0 +1,55 @@
+{
+  "sdkName": "test-sdk",
+  "apiVersion": "1.0.0",
+  "apiName": "test-api",
+  "specFilePath": "https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/examples/v3.0/petstore.json",
+  "languages": [
+    "typescript",
+    "csharp"
+  ],
+  "createDocs": false,
+  "auth": [
+    "bearer"
+  ],
+  "customizations": {
+    "includeOptionalSnippetParameters": true,
+    "authentication": {
+      "access": {
+        "prefix": "Bearer"
+      }
+    },
+    "devContainer": false,
+    "generateEnv": true,
+    "inferServiceNames": false,
+    "injectedModels": [],
+    "license": {
+      "type": "MIT"
+    },
+    "responseHeaders": false,
+    "retry": {
+      "enabled": true,
+      "maxAttempts": 3,
+      "retryDelay": 150
+    }
+  },
+  "languageOptions": {
+    "csharp": {
+      "githubRepoName": "csharp-sdk",
+      "sdkVersion": "1.0.0"
+    },
+    "typescript": {
+      "bundle": false,
+      "exportClassDefault": false,
+      "githubRepoName": "typescript-sdk",
+      "httpClient": "axios",
+      "ignoreFiles": [],
+      "npmName": "typescript-sdk",
+      "npmOrg": "",
+      "sdkVersion": "1.0.0"
+    }
+  },
+  "liblabVersion": "1",
+  "publishing": {
+    "githubOrg": "skosijer"
+  }
+}
