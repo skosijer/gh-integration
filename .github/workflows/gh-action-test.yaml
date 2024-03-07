@@ -21,8 +21,8 @@ jobs:
         id: test_gh_action
         uses: skosijer/gh-action@v1
         with:
-          liblab_token: 2000
-          github_token: 500
+          liblab_token: ${{ secrets.LIBLAB_TOKEN }}
+          github_token: ${{ secrets.LIBLAB_GITHUB_TOKEN }}
 
       - name: Build status
         run: echo "Status is ${{ steps.test_gh_action.outputs.status }}"
