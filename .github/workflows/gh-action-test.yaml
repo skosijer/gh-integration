@@ -1,0 +1,30 @@
+name: TS GH Action test
+
+on:
+  workflow_call:
+  workflow_dispatch:
+
+jobs:
+  check-for-latest-liblab-updates:
+    name: Generate SDKs and create PRs
+    runs-on: ubuntu-latest
+    env:
+      LIBLAB_TOKEN: ${{ secrets.LIBLAB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.LIBLAB_GITHUB_TOKEN }}
+      LIBLAB_ENVIRONMENT: development
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v4
+
+      - name: Test Gh Action
+        uses: skosijer/gh-action@v1
+        with:
+          milliseconds: 2000
+#      - name: Stevan SDK updates
+#        uses: skosijer/gh-action@v1.1.0
+#        with:
+#          liblab_token: ${{ secrets.LIBLAB_TOKEN }}
+#          github_token: ${{ secrets.LIBLAB_GITHUB_TOKEN }}
+
+
