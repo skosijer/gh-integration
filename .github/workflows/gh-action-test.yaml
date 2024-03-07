@@ -18,10 +18,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Test Gh Action
+        id: test_gh_action
         uses: skosijer/gh-action@v1
         with:
           liblab_token: 2000
           github_token: 500
+
+      - name: Build status
+        run: echo "Status is ${{ steps.test_gh_action.outputs.status }}"
 #      - name: Stevan SDK updates
 #        uses: skosijer/gh-action@v1.1.0
 #        with:
