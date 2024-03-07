@@ -20,7 +20,8 @@ jobs:
       - name: Test Gh Action
         uses: skosijer/gh-action@v1
         with:
-          milliseconds: 2000
+          liblab_token: 2000
+          github_token: 500
 #      - name: Stevan SDK updates
 #        uses: skosijer/gh-action@v1.1.0
 #        with:
