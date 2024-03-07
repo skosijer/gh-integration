@@ -1,4 +1,4 @@
-name: TS GH Action test
+name: Latest Liblab updates
 
 on:
   workflow_call:
@@ -17,19 +17,15 @@ jobs:
         id: checkout
         uses: actions/checkout@v4
 
-      - name: Test Gh Action
-        id: test_gh_action
+      - name: Build SDKs and publish PRs
+        id: build_and_publish_prs
         uses: skosijer/gh-action@v1
         with:
           liblab_token: ${{ secrets.LIBLAB_TOKEN }}
           github_token: ${{ secrets.LIBLAB_GITHUB_TOKEN }}
 
       - name: Build status
-        run: echo "Status is ${{ steps.test_gh_action.outputs.status }}"
-#      - name: Stevan SDK updates
-#        uses: skosijer/gh-action@v1.1.0
-#        with:
-#          liblab_token: ${{ secrets.LIBLAB_TOKEN }}
-#          github_token: ${{ secrets.LIBLAB_GITHUB_TOKEN }}
+        run: echo "Status is ${{ steps.build_and_publish_prs.outputs.status }}"
+
 
 
