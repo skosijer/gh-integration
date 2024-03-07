@@ -48,7 +48,7 @@
       "sdkVersion": "1.0.0"
     }
   },
-  "liblabVersion": "1",
+  "liblabVersion": "2",
   "publishing": {
     "githubOrg": "skosijer"
   }
