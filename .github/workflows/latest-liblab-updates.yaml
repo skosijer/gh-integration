@@ -1,31 +1,20 @@
-name: Latest Liblab updates
+name: Latest liblab updates
 
 on:
-  workflow_call:
   workflow_dispatch:
+  schedule:
+    - cron: '0 11 * * *' # 11am UTC corresponds to 5am CST
 
 jobs:
-  check-for-latest-liblab-updates:
-    name: Generate SDKs and create PRs
+  generate-sdks-and-publish-prs:
+    name: Generate SDKs and publish PRs
     runs-on: ubuntu-latest
-    env:
-      LIBLAB_TOKEN: ${{ secrets.LIBLAB_TOKEN }}
-      GITHUB_TOKEN: ${{ secrets.LIBLAB_GITHUB_TOKEN }}
-      LIBLAB_ENVIRONMENT: development
     steps:
-      - name: Checkout
-        id: checkout
-        uses: actions/checkout@v4
-
-      - name: Build SDKs and publish PRs
-        id: build_and_publish_prs
-        uses: skosijer/gh-action@v1
+      - uses: actions/checkout@v4
+      - name: Generate SDKs and publish PRs
+        uses: liblaber/sdk-updates@v1.0.0
+        env:
+          LIBLAB_ENVIRONMENT: development
         with:
           liblab_token: ${{ secrets.LIBLAB_TOKEN }}
           github_token: ${{ secrets.LIBLAB_GITHUB_TOKEN }}
-
-      - name: Build status
-        run: echo "Status is ${{ steps.build_and_publish_prs.outputs.status }}"
-
-
-
