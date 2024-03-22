@@ -17,4 +17,4 @@ jobs:
           LIBLAB_ENVIRONMENT: development
         with:
           liblab_token: ${{ secrets.LIBLAB_TOKEN }}
-          github_token: ${{ secrets.LIBLAB_GITHUB_TOKEN }}
+          liblab_github_token: ${{ secrets.LIBLAB_GITHUB_TOKEN }}
