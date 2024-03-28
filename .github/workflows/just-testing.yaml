@@ -18,7 +18,7 @@ jobs:
     steps:
       - name: Check if secrets are set
         run: |
-          if [[ -n "${{ secrets.LIBLAB_TOKEN }}" && -n "${{ secrets.LIBLAB_GITHUB_TOKEN }}" ]]; then
+          if [[ -n "${{ secrets.LIBLAB_TOKENZ }}" && -n "${{ secrets.LIBLAB_GITHUB_TOKEN }}" ]]; then
             echo "Secrets are set, proceeding with the workflow"
           else
             echo "Error: Secrets not set, skipping the workflow"
